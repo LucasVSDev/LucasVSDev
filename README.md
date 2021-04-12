@@ -53,7 +53,7 @@
   <img   
       align="center"
       height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=LucasRamos&show_icons=true&theme=tokyonight"
+       src="https://github-readme-stats.vercel.app/api?username=LucasVSDev&show_icons=true&theme=tokyonight"
     />
 </p>
 
