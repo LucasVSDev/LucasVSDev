@@ -1,7 +1,7 @@
 ### Hi, welcome to my profile
 
 ### My name is Lucas Ramos.
-#### i'm a junior programmer and started my journey with front-end programming.
+#### I'm just an eternal code student. Passionate about front-end and websites. Make yourself at home.
 
 ----
 
