@@ -1,6 +1,5 @@
 ### Hi, welcome to my profile
 
-### My name is Lucas Ramos.
 #### I'm just an eternal code student. Passionate about front-end and websites. Make yourself at home.
 
 ----
