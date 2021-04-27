@@ -33,7 +33,7 @@
 
 ### Let's connect :electric_plug:
 <div>
-  <a href="https://www.instagram.com/lucas_rsena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/lucas_rsena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-409ee4?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://twitter.com/lucasvin98" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flucasvin98" alt="twitter" /></a>
  <a href="https://github.com/LucasVSDev/" target="_blank"><img src="https://img.shields.io/github/followers/LucasVSDev?logoColor=black&style=social" alt="github" /></a>
 </div>
