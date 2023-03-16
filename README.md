@@ -32,12 +32,8 @@
 ----
 
 ### Let's connect :electric_plug:
-<div>
-  <a href="https://www.instagram.com/lucas_rsena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-409ee4?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/lucasvin98" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flucasvin98" alt="twitter" /></a>
- <a href="https://github.com/LucasVSDev/" target="_blank"><img src="https://img.shields.io/github/followers/LucasVSDev?logoColor=black&style=social" alt="github" /></a>
- <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYmm834B9Q%2BivJukT2d9nwg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-409ee4?style=flat&logo=linkedin&logoColor=white%22%20alt=%22linkedin%22" alt="linkedin" /></a>
-</div>
+
+<a href="https://www.linkedin.com/in/lucas-ramos-1a907226a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;<a href="https://www.instagram.com/lucas_rsena/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>&nbsp;&nbsp;<a href="mailto:lucasramos1418@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>&nbsp;&nbsp;
 
 ----
 
