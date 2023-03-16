@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile
 
-#### I'm just an eternal code student. Passionate about front-end and websites. Make yourself at home.
+#### I'm just an eternal code student. Passionate about front-end. Make yourself at home.
 
 ----
 
